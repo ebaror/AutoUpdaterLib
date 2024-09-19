@@ -1,0 +1,3 @@
+/Users/henrybar-or/Documents/GitHub/AutoUpdaterLib/cmake-build-debug/CMakeFiles/AutoUpdaterLib.dir
+/Users/henrybar-or/Documents/GitHub/AutoUpdaterLib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/henrybar-or/Documents/GitHub/AutoUpdaterLib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
